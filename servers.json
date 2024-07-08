@@ -1,0 +1,23 @@
+[
+	{
+		"url": {
+			"scheme": "http",
+			"Host": "localhost:8761"
+		},
+		"ready": "/ready"
+	},
+	{
+		"url": {
+			"scheme": "http",
+			"Host": "localhost:8762"
+		},
+		"ready": "/ready"
+	},
+	{
+		"url": {
+			"scheme": "http",
+			"Host": "localhost:8763"
+		},
+		"ready": "/ready"
+	}
+]
